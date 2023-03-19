@@ -1,1 +1,2 @@
-# small memory game application by mohamed ayman
+# Memory-Game
+# small memory game application for fun
